@@ -1,8 +1,6 @@
-# PrAlproIntro – Pengenalan Pemrograman Alpro
+# PrAlproIntro – Introduction Pemrograman Alpro
 
 Repository ini berisi tugas pengenalan pemrograman untuk mata kuliah Algoritma dan Pemrograman (Alpro / PrAlpro).
-
-## Soal: Heronian Mean Menjadi Bilangan Bulat
 
 **Heronian mean** (atau rata-rata Heronian) dari dua bilangan positif *a* dan *b* didefinisikan sebagai:
 
